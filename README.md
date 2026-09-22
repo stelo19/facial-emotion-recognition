@@ -31,7 +31,6 @@ honest account of where this implementation diverges from the original and why.
 ├── compare_classifiers.py    # 5-fold CV benchmark: rule-based vs. 5 ML classifiers
 ├── app.py                    # Gradio demo — see Demo section below
 ├── results.csv                # Extracted features + predictions (JAFFE)
-├── paper/                    # Original paper analysis (report + presentation slides)
 ├── requirements.txt
 └── README.md
 ```
